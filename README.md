@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Klairgo
+- 👋 Hi, I’m Karel Olwage
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently studying computer science.
-- 💞️ I’m looking to collaborate on cyber security related work.
+- 🌱 I’m currently studying computer science at the University of Pretoria.
 - 📫 How to reach me klairgo.s@gmail.com.
 
 <!---
