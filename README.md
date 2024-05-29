@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karel Olwage
 - 👀 I’m interested in cyber security.
-- 🌱 I’m currently studying computer science at the University of Pretoria.
+- 🌱 I’m currently working as a Software Engineer.
 - 📫 How to reach me olwagekarel@gmail.com.
 
 <!---
